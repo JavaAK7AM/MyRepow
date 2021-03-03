@@ -8,6 +8,9 @@ public class Addition{
 
      }
 
+     int x=10;
+     int y=20;
+
 
      //CR-545
      static void getRequset(....){
